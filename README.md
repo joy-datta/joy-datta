@@ -1,5 +1,2 @@
-I'm an artificial intelligence enthusiast. 
-<br/>
-I have a [blog](https://jdatta.medium.com) and you can contact me via [linkedin](https://www.linkedin.com/in/joy-datta). 
-<br/>
-Also here is my email adress: joy.datta@g.bracu.ac.bd
+### Hello, I'm [Joy Datta](https://joy-datta.github.io). I'm an Artificial Intelligence enthusiast. My research interests are Deep Generative Models, Self-Play and Data Efficient Learning. 
+### I have a [blog](https://jdatta.medium.com) on medium where I write Machine Learning stuffs. You can contact me via [Linkedin](https://www.linkedin.com/in/joy-datta) or send me an email at joy.datta@g.bracu.ac.bd
